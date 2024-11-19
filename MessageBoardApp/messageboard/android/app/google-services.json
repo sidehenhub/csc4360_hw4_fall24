@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "23600255015",
+    "project_id": "hwk4-messageboardapp",
+    "storage_bucket": "hwk4-messageboardapp.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:23600255015:android:7b632bff4938a5e0ee3e02",
+        "android_client_info": {
+          "package_name": "com.example.messageboard"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCH8jYp7c4nmSTh8QQP3VP0KYgOOCdLBjI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
